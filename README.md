@@ -1,2 +1,2 @@
-# Calculator-V1
-Basic js calculator using functions (add, substract, multiply, divide)
+# Calculator
+Calculator Project - Version 2 with menu & repeat
